@@ -2,14 +2,15 @@
 
 
 - 🔭 I’m a prospective Frontend React Js Developer.
-- 🌱 I’m currently learning Javascipt.
-- 🌱 I'm gonna learn Sass, React Js, Typescript, Next Js, Tailwind css...
+- 🌱 I’m currently learning React Js
+- 🌱 I'm gonna learn Typescript, Next Js
 - 💬 Ask me about anything, I am happy to help.
 - 😄 Pronouns: he / his.
 - ⚡️ Fun fact: I am interested in singing, playing football and watching football matches.
 - 📍 &nbsp;Current location: Tashkent, Uzbekistan.
 - 📫 How to reach me: <a href="https://www.instagram.com/iskanderovoff/#">Instagram</a> &nbsp;
-  <a href="https://t.me/akbar_iskanderov">Telegram</a>
+  <a href="https://t.me/akbar_iskanderov">Telegram</a> &nbsp; 
+  <a href="https://www.linkedin.com/in/akbar-iskandarov-33a8a6232/">Linkedin</a>
 
 ### Languages and Tools I work with:
 <br>
@@ -22,4 +23,7 @@
 <code> <img src="https://symbols.getvecta.com/stencil_25/72_react.76a8d36b4b.svg" width="20px"> </code> &nbsp; &nbsp;
 <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="20px"> </code> &nbsp; &nbsp;
 <code> <img src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" width="20px"> </code> &nbsp; &nbsp;
+<code> <img src="https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo-thumbnail.png" width="20px"> </code> &nbsp; &nbsp;
+<code> <img src="https://w7.pngwing.com/pngs/476/82/png-transparent-ant-design-language-react-user-interface-design-design-user-interface-design-text-rectangle-thumbnail.png" width="20px"> </code> &nbsp; &nbsp;
+<code> <img src="https://w7.pngwing.com/pngs/911/515/png-transparent-figma-logo-brand-logos-brands-in-colors-icon-thumbnail.png" width="20px"> </code> &nbsp; &nbsp;
 
