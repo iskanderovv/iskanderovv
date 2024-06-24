@@ -6,11 +6,9 @@
 - 🌱 I'm gonna learn Typescript, Next Js
 - 💬 Ask me about anything, I am happy to help.
 - 😄 Pronouns: he / his.
-- ⚡️ Fun fact: I am interested in singing, playing football and watching football matches.
+- ⚡️ Fun fact: I am interested in singing, playing and watching football, coding
 - 📍 &nbsp;Current location: Tashkent, Uzbekistan.
-- 📫 How to reach me: <a href="https://www.instagram.com/iskanderovoff/#">Instagram</a> &nbsp;
-  <a href="https://t.me/akbar_iskanderov">Telegram</a> &nbsp; 
-  <a href="https://www.linkedin.com/in/akbar-iskandarov-33a8a6232/">Linkedin</a>
+- 📫 How to reach me: <a href="https://t.me/akbar_iskanderov">Telegram</a> &nbsp; <a href="https://www.linkedin.com/in/akbar-iskandarov-33a8a6232/">Linkedin</a>
 
 ### Languages and Tools I work with:
 <br>
