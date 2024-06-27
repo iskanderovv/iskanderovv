@@ -24,29 +24,29 @@
 <code> <img src="https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo-thumbnail.png" width="20px"> </code> &nbsp; &nbsp;
 <code> <img src="https://w7.pngwing.com/pngs/476/82/png-transparent-ant-design-language-react-user-interface-design-design-user-interface-design-text-rectangle-thumbnail.png" width="20px"> </code> &nbsp; &nbsp;
 <code> <img src="https://w7.pngwing.com/pngs/911/515/png-transparent-figma-logo-brand-logos-brands-in-colors-icon-thumbnail.png" width="20px"> </code> &nbsp; &nbsp;
-
-
+<br />
+<br />
 <p align="center">
     <a href="https://github.com/erdkse#gh-light-mode-only">
-        <img height="210em" src="https://github-readme-stats.vercel.app/api?username=erdkse&count_private=true&show_icons=true&include_all_commits=true&custom_title=erdkse%27s%20github%20stats&hide_border=true&line_height=28&theme=graywhite" align = "center"/>
+        <img height="210em" src="https://github-readme-stats.vercel.app/api?username=iskanderovv&count_private=true&show_icons=true&include_all_commits=true&custom_title=erdkse%27s%20github%20stats&hide_border=true&line_height=28&theme=graywhite" align = "center"/>
     </a>
     <a href="https://github.com/erdkse#gh-light-mode-only">
-        <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdkse&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=graywhite" align = "center"/>
+        <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskanderovv&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=graywhite" align = "center"/>
     </a>
     <a href="https://github.com/erdkse#gh-dark-mode-only">
-        <img height="210em" src="https://github-readme-stats.vercel.app/api?username=erdkse&count_private=true&show_icons=true&include_all_commits=true&custom_title=erdkse%27s%20github%20stats&hide_border=true&line_height=28&theme=dark" align = "center"/>
+        <img height="210em" src="https://github-readme-stats.vercel.app/api?username=iskanderovv&count_private=true&show_icons=true&include_all_commits=true&custom_title=erdkse%27s%20github%20stats&hide_border=true&line_height=28&theme=dark" align = "center"/>
     </a>
     <a href="https://github.com/erdkse#gh-dark-mode-only">
-        <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdkse&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=dark" align = "center"/>
+        <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskanderovv&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=dark" align = "center"/>
     </a>
 
 </p>
 
 <p align="center">
-    <a href="https://github.com/erdkse#gh-light-mode-only">
+    <a href="https://github.com/iskanderovv#gh-light-mode-only">
         <img height="210em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erdkse&theme=default" alt="erdkse" />
     </a>
-    <a href="https://github.com/erdkse#gh-dark-mode-only">
+    <a href="https://github.com/iskanderovv#gh-dark-mode-only">
         <img height="210em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erdkse&theme=dark" alt="erdkse" />
     </a>
 </p>
