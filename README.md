@@ -1,5 +1,5 @@
 ### Hi I'm Akbar Iskanderov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=erdkse.erdkse)![](https://hit.yhype.me/github/profile?user_id=2957624)
 
 - 🔭 I’m a prospective Frontend React Js Developer.
 - 🌱 I’m currently learning React Js
@@ -24,6 +24,7 @@
 <code> <img src="https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo-thumbnail.png" width="20px"> </code> &nbsp; &nbsp;
 <code> <img src="https://w7.pngwing.com/pngs/476/82/png-transparent-ant-design-language-react-user-interface-design-design-user-interface-design-text-rectangle-thumbnail.png" width="20px"> </code> &nbsp; &nbsp;
 <code> <img src="https://w7.pngwing.com/pngs/911/515/png-transparent-figma-logo-brand-logos-brands-in-colors-icon-thumbnail.png" width="20px"> </code> &nbsp; &nbsp; -->
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-68a063?style=flat&logo=Node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?style=flat&logo=Python&logoColor=white)
