@@ -25,32 +25,34 @@
 <code> <img src="https://w7.pngwing.com/pngs/476/82/png-transparent-ant-design-language-react-user-interface-design-design-user-interface-design-text-rectangle-thumbnail.png" width="20px"> </code> &nbsp; &nbsp;
 <code> <img src="https://w7.pngwing.com/pngs/911/515/png-transparent-figma-logo-brand-logos-brands-in-colors-icon-thumbnail.png" width="20px"> </code> &nbsp; &nbsp; -->
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-323330?style=flat&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-f06529?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=323330)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-323330?style=flat&logo=react&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat&logo=ant-design&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-8E44AD?style=flat&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Redux-toolkit](https://img.shields.io/badge/-Redux--toolkit-764ABC?style=flat&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
 <br>
-<br>
+
 <p align="center">
-    <a href="https://github.com/erdkse#gh-light-mode-only">
+    <a href="https://github.com/iskanderovv#gh-light-mode-only">
         <img height="210em" src="https://github-readme-stats.vercel.app/api?username=iskanderovv&count_private=true&show_icons=true&include_all_commits=true&custom_title=iskanderovv%27s%20github%20stats&hide_border=true&line_height=28&theme=graywhite" align = "center"/>
     </a>
-    <a href="https://github.com/erdkse#gh-light-mode-only">
+    <a href="https://github.com/iskanderovv#gh-light-mode-only">
         <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskanderovv&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=graywhite" align = "center"/>
     </a>
-    <a href="https://github.com/erdkse#gh-dark-mode-only">
+    <a href="https://github.com/iskanderovve#gh-dark-mode-only">
         <img height="210em" src="https://github-readme-stats.vercel.app/api?username=iskanderovv&count_private=true&show_icons=true&include_all_commits=true&custom_title=iskanderovv%27s%20github%20stats&hide_border=true&line_height=28&theme=dark" align = "center"/>
     </a>
-    <a href="https://github.com/erdkse#gh-dark-mode-only">
+    <a href="https://github.com/iskanderovv#gh-dark-mode-only">
         <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskanderovv&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=dark" align = "center"/>
     </a>
 
