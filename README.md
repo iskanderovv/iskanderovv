@@ -1,5 +1,5 @@
 ### Hi I'm Akbar Iskanderov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=erdkse.erdkse)![](https://hit.yhype.me/github/profile?user_id=2957624)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iskanderovv.iskanderovv)![](https://hit.yhype.me/github/profile?user_id=2957624)
 
 - 🔭 I’m a prospective Frontend React Js Developer.
 - 🌱 I’m currently learning React Js
@@ -8,7 +8,8 @@
 - 😄 Pronouns: he / his.
 - ⚡️ Fun fact: I am interested in singing, playing and watching football, coding
 - 📍 &nbsp;Current location: Tashkent, Uzbekistan.
-- 📫 How to reach me: <a href="https://t.me/akbar_iskanderov">Telegram</a> &nbsp; <a href="https://www.linkedin.com/in/akbar-iskandarov-33a8a6232/">Linkedin</a>
+- 📫 How to reach me: <a href="https://t.me/akbar_iskanderov">Telegram</a> &nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-erdkse-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akbar-iskandarov/)](https://www.linkedin.com/in/akbar-iskandarov-33a8a6232/)    
 
 ### Languages and Tools I work with:
 <br>
