@@ -12,7 +12,6 @@
 <a href="mailto:iskanderovv5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 ### Languages and Tools I work with:
-<br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-f06529?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white)
@@ -31,7 +30,7 @@
 
 <br>
 
-<p align="center">
+<p align="center" display='flex' >
     <a href="https://github.com/iskanderovv#gh-light-mode-only">
         <img height="210em" src="https://github-readme-stats.vercel.app/api?username=iskanderovv&count_private=true&show_icons=true&include_all_commits=true&custom_title=iskanderovv%27s%20github%20stats&hide_border=true&line_height=28&theme=graywhite" align = "center"/>
     </a>
