@@ -8,8 +8,7 @@
 - 😄 Pronouns: he / his.
 - ⚡️ Fun fact: I am interested in singing, playing and watching football, coding
 - 📍 &nbsp;Current location: Tashkent, Uzbekistan.
-- 📫 How to reach me: <a href="https://t.me/akbar_iskanderov">Telegram</a> &nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/-erdkse-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akbar-iskandarov/)](https://www.linkedin.com/in/akbar-iskandarov-33a8a6232/)    
+- 📫 How to reach me: <a href="https://t.me/akbar_iskanderov">Telegram</a> &nbsp; <a href="https://www.linkedin.com/in/akbar-iskandarov-33a8a6232/">Linkedin</a> 
 
 ### Languages and Tools I work with:
 <br>
@@ -32,6 +31,13 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-f06529?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat&logo=ant-design&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
 <br>
 <br>
 <p align="center">
