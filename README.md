@@ -1,5 +1,5 @@
 ### Hi I'm Akbar Iskanderov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iskanderovv.iskanderovv)![](https://hit.yhype.me/github/profile?user_id=2957624)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iskanderovv.iskanderovv)![](https://hit.yhype.me/github/profile?user_id=117995945)
 
 - 🔭 I’m a prospective Frontend React Js Developer.
 - 🌱 I’m currently learning React Js
