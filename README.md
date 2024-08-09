@@ -7,7 +7,7 @@
 - 💬 Ask me about anything, I am happy to help.
 - 😄 Pronouns: he / his.
 - 📍 &nbsp;Current location: Tashkent, Uzbekistan.
-- 📫 How to reach me: <a href="https://t.me/akbar_iskanderov"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a> <a href="https://www.linkedin.com/in/akbar-iskandarov-33a8a6232/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+- 📫 How to reach me: <a href="https://t.me/akbar_iskanderovv"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a> <a href="https://www.linkedin.com/in/akbar-iskandarov-33a8a6232/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:iskanderovv5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 ### Languages and Tools I work with:
