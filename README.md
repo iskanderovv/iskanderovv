@@ -1,9 +1,8 @@
 ### Hi I'm Akbar Iskanderov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iskanderovv.iskanderovv)![](https://hit.yhype.me/github/profile?user_id=117995945)
 
-- 🔭 I’m a prospective Frontend React Js Developer.
-- 🌱 I’m currently learning Redux, Redux-toolkit
-- 🌱 I'm gonna learn Typescript, Next Js
+- 🔭 I’m React Js Developer.
+- 🌱 I’m currently learning Typescript
 - 💬 Ask me about anything, I am happy to help.
 - 😄 Pronouns: he / his.
 - 📍 &nbsp;Current location: Tashkent, Uzbekistan.
