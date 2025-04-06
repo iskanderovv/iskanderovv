@@ -23,6 +23,10 @@
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Redux-toolkit](https://img.shields.io/badge/-Redux--toolkit-764ABC?style=flat&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 <br>
 
@@ -43,8 +47,6 @@
     </a>
 </p>
 
-
-
 <p align="center">
     <a href="https://github.com/iskanderovv#gh-light-mode-only">
         <img height="190em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iskanderovv&theme=default" alt="erdkse" />
@@ -53,4 +55,3 @@
         <img height="190em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iskanderovv&theme=dark" alt="erdkse" />
     </a>
 </p>
-
