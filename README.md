@@ -30,11 +30,12 @@
 
 <br>
 
-<p align="center" style="display: flex; justify-content: center;">
-      <a href="https://github.com/iskanderovv#gh-dark-mode-only">
-        <img height="190em" src="https://github-readme-stats.vercel.app/api?username=iskanderovv&theme=react&show_icons=true&hide_border=true&count_private=true" align="center"/>
-    </a>
-    <a href="https://github.com/iskanderovv#gh-dark-mode-only">
-        <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskanderovv&theme=react&show_icons=true&hide_border=true&layout=compact" align="center"/>
-    </a>
-</p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
+  <a href="https://github.com/iskanderovv#gh-dark-mode-only">
+    <img height="190" src="https://github-readme-stats.vercel.app/api?username=iskanderovv&theme=react&show_icons=true&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/iskanderovv#gh-dark-mode-only">
+    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskanderovv&theme=react&show_icons=true&hide_border=true&layout=compact" />
+  </a>
+</div>
+
