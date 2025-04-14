@@ -40,7 +40,7 @@
 </p>
 <p align="center" style="display: flex; justify-content: center;">
     <a href="https://github.com/iskanderovv#gh-dark-mode-only">
-        <img height="190em" src="https://github-readme-stats.vercel.app/api?username=iskanderovv&theme=radical&show_icons=true&hide_border=true&count_private=true" align="center"/>
+        <img height="190em" src="https://github-readme-stats.vercel.app/api?username=iskanderovv&theme=graywhite&show_icons=true&hide_border=true&count_private=true" align="center"/>
     </a>
     <a href="https://github.com/iskanderovv#gh-dark-mode-only">
         <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskanderovv&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=dark" align="center"/>
