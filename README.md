@@ -31,7 +31,7 @@
 <br>
 
 <p align="center" style="display: flex; justify-content: center;">
-      <a href="https://github.com/iskanderovv#gh-light-mode-only">
+      <a href="https://github.com/iskanderovv#gh-dark-mode-only">
         <img height="190em" src="https://github-readme-stats.vercel.app/api?username=iskanderovv&theme=react&show_icons=true&hide_border=true&count_private=true" align="center"/>
     </a>
     <a href="https://github.com/iskanderovv#gh-dark-mode-only">
