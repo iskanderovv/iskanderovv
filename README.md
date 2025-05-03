@@ -32,10 +32,10 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
   <a href="https://github.com/iskanderovv#gh-dark-mode-only">
-    <img  width="190px" src="https://github-readme-stats.vercel.app/api?username=iskanderovv&theme=react&show_icons=true&hide_border=true&count_private=true" />
+    <img  width="300px" src="https://github-readme-stats.vercel.app/api?username=iskanderovv&theme=react&show_icons=true&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/iskanderovv#gh-dark-mode-only">
-    <img  width="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskanderovv&theme=react&show_icons=true&hide_border=true&layout=compact" />
+    <img  width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskanderovv&theme=react&show_icons=true&hide_border=true&layout=compact" />
   </a>
 </div>
 
